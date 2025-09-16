@@ -32,6 +32,15 @@
 
 <strong>📊 Data Tools & Libraries:</strong>
 <p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" title="Pandas"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" title="NumPy"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40" title="Scikit Learn"/>
+  </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" title="Matplotlib"/>
   </a>
@@ -69,5 +78,27 @@
   </a>
   <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wix/wix-original.svg" alt="Wix" width="40" height="40" title="Wix"/>
+  </a>
+</p>
+
+<strong>🤖 AI Tools:</strong>
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/openai/ffffff" alt="ChatGPT" width="40" height="40" title="ChatGPT"/>
+  </a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/googlegemini/ffffff" alt="Gemini" width="40" height="40" title="Gemini"/>
+  </a>
+  <a href="https://gamma.app/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gamma/ffffff" alt="Gamma AI" width="40" height="40" title="Gamma AI"/>
+  </a>
+  <a href="https://www.grammarly.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/grammarly/ffffff" alt="Grammarly" width="40" height="40" title="Grammarly"/>
+  </a>
+  <a href="https://www.perplexity.ai/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/perplexity/ffffff" alt="Perplexity" width="40" height="40" title="Perplexity"/>
+  </a>
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/anthropic/ffffff" alt="Claude" width="40" height="40" title="Claude"/>
   </a>
 </p>
