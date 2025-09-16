@@ -41,12 +41,6 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40" title="Scikit Learn"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" title="Matplotlib"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40" title="Seaborn"/>
-  </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40" title="Plotly"/>
   </a>
@@ -73,12 +67,6 @@
   <a href="https://base44.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/solar:sun-bold.svg?color=%23f59e0b" alt="Base44" width="40" height="40" title="Base44"/>
   </a>
-  <a href="https://bolt.com/" target="_blank" rel="noreferrer">
-    <img src="https://bolt.com/favicon.ico" alt="Bolt" width="40" height="40" title="Bolt"/>
-  </a>
-  <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wix/wix-original.svg" alt="Wix" width="40" height="40" title="Wix"/>
-  </a>
 </p>
 
 <strong>🤖 AI Tools:</strong>
@@ -88,9 +76,6 @@
   </a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/googlegemini/ffffff" alt="Gemini" width="40" height="40" title="Gemini"/>
-  </a>
-  <a href="https://gamma.app/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gamma/ffffff" alt="Gamma AI" width="40" height="40" title="Gamma AI"/>
   </a>
   <a href="https://www.grammarly.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/grammarly/ffffff" alt="Grammarly" width="40" height="40" title="Grammarly"/>
