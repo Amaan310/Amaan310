@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <strong>🖥️ Languages:</strong>
-<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
   </a>
@@ -31,44 +31,44 @@
 </p>
 
 <strong>📊 Data Tools & Libraries:</strong>
-<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" title="Pandas"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" title="Pandas"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" title="NumPy"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" title="NumPy"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40" title="Scikit Learn"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" title="Matplotlib"/>
+    <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" title="Matplotlib"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40" title="Seaborn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40" title="Seaborn"/>
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40" title="Plotly"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40" title="Plotly"/>
   </a>
 </p>
 
 <strong>💾 Databases:</strong>
-<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/>
   </a>
 </p>
 
 <strong>🛠️ Tools & Platforms:</strong>
-<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" title="Canva"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" title="Canva"/>
   </a>
   <a href="https://base44.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/solar:sun-bold.svg?color=%23f59e0b" alt="Base44" width="40" height="40" title="Base44"/>
@@ -77,30 +77,29 @@
     <img src="https://bolt.com/favicon.ico" alt="Bolt" width="40" height="40" title="Bolt"/>
   </a>
   <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wix/wix-original.svg" alt="Wix" width="40" height="40" title="Wix"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wix/wix-original.svg" alt="Wix" width="40" height="40" title="Wix"/>
   </a>
 </p>
 
 <strong>🤖 AI Tools:</strong>
-<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
   <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40" title="ChatGPT"/>
+    <img src="https://cdn.simpleicons.org/openai/ffffff" alt="ChatGPT" width="40" height="40" title="ChatGPT"/>
   </a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="40" height="40" title="Gemini"/>
+    <img src="https://cdn.simpleicons.org/googlegemini/ffffff" alt="Gemini" width="40" height="40" title="Gemini"/>
   </a>
   <a href="https://gamma.app/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gamma/000000" alt="Gamma AI" width="40" height="40" title="Gamma AI"/>
+    <img src="https://cdn.simpleicons.org/gamma/ffffff" alt="Gamma AI" width="40" height="40" title="Gamma AI"/>
   </a>
   <a href="https://www.grammarly.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/grammarly/15C79F" alt="Grammarly" width="40" height="40" title="Grammarly"/>
+    <img src="https://cdn.simpleicons.org/grammarly/ffffff" alt="Grammarly" width="40" height="40" title="Grammarly"/>
   </a>
   <a href="https://www.perplexity.ai/" target="_blank" rel="noreferrer">
-    <img src="https://www.perplexity.ai/favicon.svg" alt="Perplexity" width="40" height="40" title="Perplexity"/>
+    <img src="https://cdn.simpleicons.org/perplexity/ffffff" alt="Perplexity" width="40" height="40" title="Perplexity"/>
   </a>
   <a href="https://claude.ai/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Claude_logo.svg" alt="Claude" width="40" height="40" title="Claude"/>
+    <img src="https://cdn.simpleicons.org/anthropic/ffffff" alt="Claude" width="40" height="40" title="Claude"/>
   </a>
 </p>
-
 
