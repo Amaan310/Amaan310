@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amaanhaq77@gmail.com**
 
-- **⚡ Fun fact: I’m an explorer who loves diving into new technologies, challenges, and creative solutions!...**
+- **⚡ Fun fact: I’m an explorer who loves diving into new technologies, challenges, and creative solutions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
