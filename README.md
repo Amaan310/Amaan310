@@ -1,7 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)]
 <h1 align="center">Hi 👋, I'm Amaan Haque</h1>
-<h3 align="center">A Data science enthusiast uncovering hidden insights!</h3>
-<img align="right" alt="Coding" width="400" src= "https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
+<h3 align="center">🤖 AI & Data Science Enthusiast | Transforming Data into Intelligent Insights for Real-World Impact 📊🧠</h3>
 
 - 🚀 Passionate about **Artificial Intelligence 🤖 and love building diverse projects 💡 using AI tools 🛠️.**
 - Currently exploring Machine Learning 📊, Data Science 📈, and advanced AI technologies 🧠 to solve real-world problems 🌍.
