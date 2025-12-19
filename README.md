@@ -70,10 +70,7 @@
 </p>
 
 <strong>🤖 AI Tools:</strong>
-<p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
-  <a href="![Image](https://github.com/user-attachments/assets/7c7d91f8-3bf9-4f69-a647-e1c5e3ebf8ba)" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai/ffffff" alt="ChatGPT" width="40" height="40" title="ChatGPT"/>
-  </a>
+![Image](https://github.com/user-attachments/assets/7c7d91f8-3bf9-4f69-a647-e1c5e3ebf8ba)
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/googlegemini/ffffff" alt="Gemini" width="40" height="40" title="Gemini"/>
   </a>
