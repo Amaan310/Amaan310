@@ -1,24 +1,37 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
+
 <h1 align="center">Hi 👋, I'm Amaan Haque</h1>
-<h3 align="center">🤖 AI & Data Science Enthusiast | Transforming Data into Intelligent Insights for Real-World Impact 📊🧠</h3>
+<h3 align="center">
+🤖 AI & Data Science Enthusiast | Transforming Data into Intelligent Insights for Real-World Impact 📊🧠
+</h3>
 
 ---
 
-- 🚀 Passionate about **Artificial Intelligence 🤖 and love building diverse projects 💡 using AI tools 🛠️.**
-- Currently exploring Machine Learning 📊, Data Science 📈, and advanced AI technologies 🧠 to solve real-world problems 🌍.
+### 👨‍💻 About Me
+- 🚀 Passionate about **Artificial Intelligence and Data Science**, with a strong interest in building **practical, real-world projects** using modern AI tools.
+- 📊 Currently exploring **Machine Learning, Data Analytics, and Intelligent Systems** to solve meaningful business and societal problems.
+- 🧠 A quick learner who enjoys experimenting with new technologies, analytical challenges, and creative problem-solving.
+- 📫 Reach me at **amaanhaq77@gmail.com**
+- ⚡ **Fun fact:** I love exploring new tools, domains, and ideas that push my technical boundaries!
 
-- 📫 How to reach me **amaanhaq77@gmail.com**
+---
 
-- **⚡ Fun fact: I’m an explorer who loves diving into new technologies, challenges, and creative solutions!**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amaanhaque3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaan-haque-647337228" height="30" width="40" /></a>
-<a href="https://kaggle.com/amaan@3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amaan@3" height="30" width="40" /></a>
-<a href="https://instagram.com/amaan__310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amaan__310" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amaanhaque3/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/amaan@3" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</a>
+<a href="https://instagram.com/amaan__310" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">🧰 Languages and Tools</h3>
 
 <strong>🖥️ Languages:</strong>
 <p align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
@@ -84,5 +97,3 @@
     <img src="https://cdn.simpleicons.org/anthropic/000000" width="45" height="45"/>
   </a>
 </p>
-
-
