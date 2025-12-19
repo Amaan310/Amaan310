@@ -69,26 +69,20 @@
   </a>
 </p>
 
-<strong>🤖 AI Tools:</strong>
-<a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/7c7d91f8-3bf9-4f69-a647-e1c5e3ebf8ba" 
-       alt="ChatGPT" width="40" height="40" title="ChatGPT"/>
-</a>
-<a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/googlegemini/ffffff" 
-       alt="Gemini" width="40" height="40" title="Gemini"/>
-</a>
-<a href="https://www.grammarly.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/grammarly/ffffff" 
-       alt="Grammarly" width="40" height="40" title="Grammarly"/>
-</a>
-<a href="https://www.perplexity.ai/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/perplexity/ffffff" 
-       alt="Perplexity" width="40" height="40" title="Perplexity"/>
-</a>
-<a href="https://claude.ai/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/anthropic/ffffff" 
-       alt="Claude" width="40" height="40" title="Claude"/>
-</a>
+### 🤖 AI Tools:
+<p align="left">
+  <a href="https://chat.openai.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/7c7d91f8-3bf9-4f69-a647-e1c5e3ebf8ba" width="45" height="45"/>
+  </a>
+  <a href="https://gemini.google.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlegemini/000000" width="45" height="45"/>
+  </a>
+  <a href="https://www.perplexity.ai/" target="_blank">
+    <img src="https://cdn.simpleicons.org/perplexity/000000" width="45" height="45"/>
+  </a>
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://cdn.simpleicons.org/anthropic/000000" width="45" height="45"/>
+  </a>
 </p>
+
 
