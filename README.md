@@ -87,13 +87,13 @@
   <a href="https://chat.openai.com/" target="_blank">
     <img src="https://github.com/user-attachments/assets/7c7d91f8-3bf9-4f69-a647-e1c5e3ebf8ba" width="45" height="45"/>
   </a>
-  <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlegemini/000000" width="45" height="45"/>
+  <a href="https://gemini.google.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/adb5b6dc-9e2e-4b5a-beaf-2200d21cf2a4" width="45" height="45"/>
   </a>
   <a href="https://www.perplexity.ai/" target="_blank">
-    <img src="https://cdn.simpleicons.org/perplexity/000000" width="45" height="45"/>
+    <img src="https://github.com/user-attachments/assets/2f0f8621-cdec-4a6e-a83f-55eeb2a37194" width="45" height="45"/>
   </a>
   <a href="https://claude.ai/" target="_blank">
-    <img src="https://cdn.simpleicons.org/anthropic/000000" width="45" height="45"/>
+    <img src="https://github.com/user-attachments/assets/2cc8ea0f-99a7-4742-816d-c916403987ba" width="45" height="45"/>
   </a>
 </p>
